@@ -1,4 +1,4 @@
-# bash
+# Bash
 
 Trying to complete 125 projects from in Bash
 
